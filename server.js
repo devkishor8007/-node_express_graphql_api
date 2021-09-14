@@ -1,6 +1,3 @@
-// console.log('Helloow');
-// npm install -g nodemon
-
 const express = require('express');
 const { graphqlHTTP } = require('express-graphql');
 
